@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=+3.3V Pin=ESP32-1
+Removed Pin From Net: NetName=GND Pin=ESP32-14
+Removed Pin From Net: NetName=mot2_2 Pin=ESP32-23
+Removed Pin From Net: NetName=mot1_2 Pin=ESP32-24
+Removed Pin From Net: NetName=mot1_1 Pin=ESP32-25
+Removed Pin From Net: NetName=mot2_1 Pin=ESP32-26
+Removed Pin From Net: NetName=LED Pin=ESP32-27
+Removed Pin From Net: NetName=GND Pin=ESP32-32
+Removed Pin From Net: NetName=SensorV Pin=ESP32-33
+Removed Member From Class: ClassName=[03] - SCHEMATIC Member=ESP32
+Added Component: Designator=U?(ESP32 DEV KIT)
+Added Pin To Net: NetName=+3.3V Pin=U?-1
+Added Pin To Net: NetName=GND Pin=U?-14
+Added Pin To Net: NetName=mot2_2 Pin=U?-23
+Added Pin To Net: NetName=mot1_2 Pin=U?-24
+Added Pin To Net: NetName=mot1_1 Pin=U?-25
+Added Pin To Net: NetName=mot2_1 Pin=U?-26
+Added Pin To Net: NetName=LED Pin=U?-27
+Added Pin To Net: NetName=GND Pin=U?-32
+Added Pin To Net: NetName=SensorV Pin=U?-33
+Added Member To Class: ClassName=[03] - SCHEMATIC Member=Component U? ESP32

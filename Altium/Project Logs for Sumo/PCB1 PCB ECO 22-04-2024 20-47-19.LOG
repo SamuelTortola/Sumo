@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=GND Pin=U1-12
+Removed Pin From Net: NetName=GND Pin=U1-13
+Added Member To Class: ClassName=[03] - SCHEMATIC Member=Component U2 ESP32
